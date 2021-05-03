@@ -1,0 +1,12 @@
+doubts:
+Is it okay to make separate div to paragraphs/questions as well? and then adjusting them as per the padding given
+not responsive yet. what could be a better approach
+
+Learnt
+1. how to resize an input field using width 
+2. give same value to name attribute in radio button so that only one is selected at a time
+3. give different values to name attribute in checkbox so that multiple can be checked at a time
+4. approach made a div for ques+ans gave it display flex
+    then put ques in a div so that ques position can be adjusted
+    nd answer in a separate div with display flex and flex direction:column
+    then give a flexbox to each radio/checkbox and label so that they can be adjusted in same line
